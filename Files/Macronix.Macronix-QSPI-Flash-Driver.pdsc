@@ -3,10 +3,9 @@
     <vendor>Macronix</vendor>
     <name>Macronix-QSPI-Flash-Driver</name>
     <description>Driver is implemented on STM32 Quad-SPI interface (QUADSPI)</description>
-    <url>http://192.168.162.5/danielzhang/stm32cube-mx/-/archive/v1.0/stm32cube-mx-v1.0.zip/</url>
-    <license>LICENSE.txt</license>
+    <url>https://github.com/daniel-0723/STM32CubeMX/releases/download/v1.0.0/Macronix.Macronix-QSPI-Flash-Driver.1.0.0.pack/</url>
     <releases>
-        <release date="2025-07-11" url="http://192.168.162.5/danielzhang/stm32cube-mx/-/archive/v1.0/stm32cube-mx-v1.0.zip" version="1.3.0">for test</release>
+        <release date="2025-07-11" url="https://github.com/daniel-0723/STM32CubeMX/releases/download/v1.0.0/Macronix.Macronix-QSPI-Flash-Driver.1.0.0.pack" version="1.3.0">for test</release>
         <release date="2025-07-12" url="https://github.com/Infineon/AIROC-Wi-Fi-Bluetooth-STM32/releases/download/release-v1.7.1/Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.7.1.pack" version="1.2.0">for test</release>
         <release date="2025-07-15" url="http://192.168.162.5/danielzhang/stm32cube-mx/-/raw/master/Macronix.Macronix-QSPI-Flash-Driver.1.1.0.pack/" version="1.1.0">for test</release>
         <release date="2025-07-11" url="http://192.168.162.5/danielzhang/stm32cube-mx/-/raw/master/Macronix.Macronix-QSPI-Flash-Driver.1.0.0.pack/" version="1.0.0">Driver is implemented on STM32 Quad-SPI interface (QUADSPI) </release>
